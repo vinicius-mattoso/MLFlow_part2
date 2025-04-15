@@ -1,4 +1,4 @@
-# # 🚀 MLFlow_PART2 — Projeto com MLflow Tracking Server Separado
+# 🚀 MLFlow_PART2 — Projeto com MLflow Tracking Server Separado
 
 Este projeto mostra como configurar um pipeline de experimentos com **MLflow** usando uma estrutura distribuída entre:
 
