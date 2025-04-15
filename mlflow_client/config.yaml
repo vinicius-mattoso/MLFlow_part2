@@ -1,0 +1,5 @@
+experiment:
+  name: "wine_experiment"
+  run_name: "baseline_model_v2"
+
+tracking_uri: "http://127.0.0.1:5000"
