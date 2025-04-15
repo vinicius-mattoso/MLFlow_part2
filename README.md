@@ -79,12 +79,12 @@ experiment:
   run_name: "baseline_model"
 ```
 
-### 📊 Visualizando os Experimentos
+## 📊 3. Visualizando os Experimentos
 ```bash
 http://127.0.0.1:5000
 ```
 
-### 🧠 Funcionalidades principais
+## 🧠 4. Funcionalidades principais
 
 * 🌐 Separação entre cliente e servidor MLflow
 
